@@ -1,3 +1,8 @@
+> **foxnaim** · MCP-сервер Wanderlog: составление и правка маршрутов путешествий в диалоге с ИИ
+>
+> Готовая основа под клиентский проект. Стек: TypeScript.
+> Лицензия MIT сохранена, история коммитов и авторы оригинального проекта сохранены.
+
 # wanderlog-mcp
 
 [![npm](https://img.shields.io/npm/v/wanderlog-mcp)](https://www.npmjs.com/package/wanderlog-mcp)
